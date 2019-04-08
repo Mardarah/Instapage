@@ -1,5 +1,4 @@
- {
-     {
+{{
         "id": 1,
         "name": "Affenpinscher",
         "species": {
@@ -21,134 +20,8 @@
         }
     },
     {
-        "id": 724,
-        "name": "Azawakh",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Azawakh",
-            "nl": "Azawakh windhond",
-            "es": "Azawakh",
-            "be": "Lévrier Azawakh"
-        }
-    },
-    {
-        "id": 733,
-        "name": "Berger de Croatie",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "berger de Croatie",
-            "nl": "Kroatische herdershond",
-            "es": "Pastor de Croacia",
-            "be": "Berger Croate"
-        }
-    },
-    {
-        "id": 34,
-        "name": "Berger de Hollande",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de Hollande",
-            "nl": "Nederlandse herdershond",
-            "es": "Pastor Holandés",
-            "be": "Berger de Hollande"
-        }
-    },
-    {
-        "id": 798,
-        "name": "Berger de Hollande",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de picardie",
-            "nl": "Picardische herdershond",
-            "es": "Pastor de Picardía",
-            "be": "Berger de Picardie"
-        }
-    },
-    {
-        "id": 740,
-        "name": "Berger de Karst",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de Karst",
-            "nl": "Herdershond van de karst",
-            "es": "pastor de Karst",
-            "be": "BERGER DU KARST"
-        }
-    },
-    {
-        "id": 605,
-        "name": "Berger de la serra de aires",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de la serra de aires",
-            "nl": "Portugese herdershond",
-            "es": "Cão da Serra des Aires",
-            "be": "BERGER DE LA SERRA DE AIRES"
-        }
-    },
-    {
-        "id": 340,
-        "name": "Berger de Maremme et abruzzes",
+        "id": 712,
+        "name": "Aïdi",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -161,15 +34,15 @@
         },
         "alimentation_group_id": 3,
         "translations": {
-            "fr": "Berger de Maremme et abruzzes",
-            "nl": "Herdershond van Maremme en abruzzes",
-            "es": "Pastor Maremmano Abruzzese",
-            "be": "Berger de Maremme et abruzzes"
+            "fr": "Aïdi",
+            "nl": "Aidi",
+            "es": "Aïda",
+            "be": "Chien de l Atlas Marocain"
         }
     },
     {
-        "id": 35,
-        "name": "Berger de Picardie",
+        "id": 2,
+        "name": "Airedale",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -182,15 +55,15 @@
         },
         "alimentation_group_id": 2,
         "translations": {
-            "fr": "Berger de picardie",
-            "nl": "Picardische herdershond",
-            "es": "Pastor de Picardía",
-            "be": "Berger de Picardie"
+            "fr": "Airedale",
+            "nl": "Airedale",
+            "es": "Airedale terrier",
+            "be": "Airedale"
         }
     },
     {
-        "id": 322,
-        "name": "Berger de Podhale",
+        "id": 329,
+        "name": "Akita Américain",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -203,15 +76,15 @@
         },
         "alimentation_group_id": 3,
         "translations": {
-            "fr": "Berger de Podhale",
-            "nl": "Herdershond van Podhale",
-            "es": "Pastor de Tatra",
-            "be": "Berger de Podhale"
+            "fr": "Akita Américain",
+            "nl": "Amerikaanse Akita",
+            "es": "Akita Inu Americano pequeño",
+            "be": "Akita Américain"
         }
     },
     {
-        "id": 382,
-        "name": "Berger de russie méridionale",
+        "id": 3,
+        "name": "Akita Inu",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -224,36 +97,15 @@
         },
         "alimentation_group_id": 3,
         "translations": {
-            "fr": "Berger de Russie méridionale",
-            "nl": "Zuid-Russische herdershond",
-            "es": "Pastor de Rusia Meridional",
-            "be": "Berger de russie méridionale"
+            "fr": "Akita Inu",
+            "nl": "Akita Inu",
+            "es": "Akitu Inu Japones",
+            "be": "Akita Inu"
         }
     },
     {
-        "id": 372,
-        "name": "Berger de Savoie",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de savoie",
-            "nl": "Herdershond uit de Savoie",
-            "es": "Pastor de Saboya",
-            "be": "Berger de Savoie"
-        }
-    },
-    {
-        "id": 735,
-        "name": "Berger des Abruzzes et Maremme",
+        "id": 796,
+        "name": "Alano espagnol",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -266,15 +118,15 @@
         },
         "alimentation_group_id": 3,
         "translations": {
-            "fr": "Berger des abruzzes et Maremme",
-            "nl": "Herdershond van Maremme en abruzzes",
-            "es": "Pastor Maremmano Abruzzese",
-            "be": "Berger de Maremme et abruzzes"
+            "fr": "Grand Anglo francais tricolore",
+            "nl": "Grand Anglo francais tricolore\r\n",
+            "es": "Gran anglo-francés tricolor\r\n",
+            "be": "Grand Anglo francais tricolore\r\n"
         }
     },
     {
-        "id": 36,
-        "name": "Berger des Pyrénées",
+        "id": 4,
+        "name": "Alaskan Malamute",
         "species": {
             "id": 1,
             "name": "Chien",
@@ -287,283 +139,10 @@
         },
         "alimentation_group_id": 3,
         "translations": {
-            "fr": "Berger des Pyrénées",
-            "nl": "Pyreneese herdershond",
-            "es": "Pastor de los Pirineos",
-            "be": "Berger des Pyrénées"
-        }
-    },
-    {
-        "id": 37,
-        "name": "Berger des Shetland",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 1,
-        "translations": {
-            "fr": "Berger des Shetland",
-            "nl": "Shetland sheepdog- sheltie",
-            "es": "Perro Pastor de las Islas Shetland",
-            "be": "Berger des Shetland"
-        }
-    },
-    {
-        "id": 741,
-        "name": "Berger du bassin de Karst",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger du bassin de Karst",
-            "nl": "Herdershond van de karst",
-            "es": "pastor de Karst",
-            "be": "BERGER DU KARST"
-        }
-    },
-    {
-        "id": 388,
-        "name": "Berger du Caucase",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 3,
-        "translations": {
-            "fr": "Berger du caucase",
-            "nl": "Kaukasische herdershond",
-            "es": "Pastor del Cáucaso",
-            "be": "Berger du Caucase"
-        }
-    },
-    {
-        "id": 630,
-        "name": "Berger du karst",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger du karst",
-            "nl": "Herdershond van de karst",
-            "es": "pastor de Karst",
-            "be": "BERGER DU KARST"
-        }
-    },
-    {
-        "id": 763,
-        "name": "Berger Espagnol de Majorque",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 3,
-        "translations": {
-            "fr": "Berger Espagnol de Majorque",
-            "nl": "Majorcaanse herder",
-            "es": "Perro de pastor mallorquín",
-            "be": "CA DE BESTIAR"
-        }
-    },
-    {
-        "id": 637,
-        "name": "Berger finnois de laponie",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger finnois de laponie",
-            "nl": "Laplandse herdershond",
-            "es": "Pastor Finlandés de Laponia",
-            "be": "BERGER FINNOIS DE LAPONIE"
-        }
-    },
-    {
-        "id": 799,
-        "name": "Berger Hollandais",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger de picardie",
-            "nl": "Picardische herdershond",
-            "es": "Pastor de Picardía",
-            "be": "Berger de Picardie"
-        }
-    },
-    {
-        "id": 771,
-        "name": "Berger Hollandais",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 3,
-        "translations": {
-            "fr": "Berger Hollandais",
-            "nl": "Dutsch sheperd",
-            "es": "Pastor Holandés",
-            "be": "Berger Hollandais"
-        }
-    },
-    {
-        "id": 697,
-        "name": "Berger Hongrois",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger hongrois",
-            "nl": "Kuwatz",
-            "es": "Kuvasz",
-            "be": "Berger Hongrois"
-        }
-    },
-    {
-        "id": 38,
-        "name": "Berger Islandais",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger islandais",
-            "nl": "IJslandse herdershond",
-            "es": "Pastor de Islandia",
-            "be": "Berger Islandais"
-        }
-    },
-    {
-        "id": 39,
-        "name": "Berger Polonais",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 3,
-        "translations": {
-            "fr": "Berger polonais",
-            "nl": "Poolse herdershond",
-            "es": "Pastor Polaco de Llanura",
-            "be": "Berger Polonais"
-        }
-    },
-    {
-        "id": 746,
-        "name": "Berger polonais de plaine",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 3,
-        "translations": {
-            "fr": "Berger polonais de plaine",
-            "nl": "Poolse herdershond",
-            "es": "Pastor Polaco de Llanura",
-            "be": "Berger Polonais"
-        }
-    },
-    {
-        "id": 40,
-        "name": "Berger Portugais",
-        "species": {
-            "id": 1,
-            "name": "Chien",
-            "translations": {
-                "fr": "Chien",
-                "nl": "Hond",
-                "es": "Perro",
-                "be": "Chien"
-            }
-        },
-        "alimentation_group_id": 2,
-        "translations": {
-            "fr": "Berger portugais",
-            "nl": "Portugese herdershond",
-            "es": "Pastor Portugués",
-            "be": "Berger Portugais"
+            "fr": "Alaskan Malamute",
+            "nl": "Alaskan Malamute",
+            "es": "Alaskan Malamute",
+            "be": "Alaskan Malamute"
         }
     }
 }
