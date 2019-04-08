@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Affenpinscher",
+        "species": {
+            "id": 1,
+            "name": "Chien",
+            "translations": {
+                "fr": "Chien",
+                "nl": "Hond",
+                "es": "Perro",
+                "be": "Chien"
+            }
+        },
+        "alimentation_group_id": 1,
+        "translations": {
+            "fr": "Affenpinscher",
+            "nl": "Affenpinscher",
+            "es": "Affenpinscher",
+            "be": "Affenpinscher"
+        }
+    },
+    {
+        "id": 712,
+        "name": "Aïdi",
+        "species": {
+            "id": 1,
+            "name": "Chien",
+            "translations": {
+                "fr": "Chien",
+                "nl": "Hond",
+                "es": "Perro",
+                "be": "Chien"
+            }
+        },
+        "alimentation_group_id": 3,
+        "translations": {
+            "fr": "Aïdi",
+            "nl": "Aidi",
+            "es": "Aïda",
+            "be": "Chien de l Atlas Marocain"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Airedale",
+        "species": {
+            "id": 1,
+            "name": "Chien",
+            "translations": {
+                "fr": "Chien",
+                "nl": "Hond",
+                "es": "Perro",
+                "be": "Chien"
+            }
+        },
+        "alimentation_group_id": 2,
+        "translations": {
+            "fr": "Airedale",
+            "nl": "Airedale",
+            "es": "Airedale terrier",
+            "be": "Airedale"
+        }
+    }
+]
